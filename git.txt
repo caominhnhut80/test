@@ -1,4 +1,5 @@
 //up len
+git add *
 git commit -a -m"abccccccc"
 git push
 
