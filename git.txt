@@ -1,0 +1,6 @@
+//up len
+git commit -a -m"abccccccc"
+git push
+
+//dong bo
+git pull
